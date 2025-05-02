@@ -26,4 +26,4 @@ res2= int(input("Ingrese el segundo numero a restar: "))
 
 numeros_restados= resta(res1, res2)
 
-print ("Los numeros restados son: ", numeros_restados)
+print ("El resultado producto de la resta es: ", numeros_restados)

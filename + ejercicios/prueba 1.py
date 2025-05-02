@@ -1,6 +1,3 @@
-print ("hola mundo")
-
-
 
 for numero_entero in range(10,21, 2):
     print ("Valor del numero: ", numero_entero)
